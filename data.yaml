@@ -1,0 +1,9 @@
+train: /content/gdrive/MyDrive/database/train/images
+val: /content/gdrive/MyDrive/database/valid/images
+test: /content/gdrive/MyDrive/database/test/images
+
+# number of classes
+nc: 2
+
+# class names 
+names: ['non-organic waste', 'organic waste']
